@@ -4,7 +4,7 @@ An AI-powered application that analyzes resumes against job descriptions to prov
 
 ## Demo
 
-Try it out here: [AI Resume Reviewer Demo](https://resumee-builder.streamlit.app/)
+Try it out here: [AI Resume Reviewer Demo](https://huggingface.co/spaces/Avdhoottt/resume-reviewer)
 
 ![Hero Section](/images/resume-builder-1.png)
 ![Input Features](/images/resume-builder-2.png)
