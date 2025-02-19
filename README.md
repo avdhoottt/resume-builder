@@ -6,6 +6,11 @@ An AI-powered application that analyzes resumes against job descriptions to prov
 
 Try it out here: [AI Resume Reviewer Demo](https://resumee-builder.streamlit.app/)
 
+![Hero Section](/images/resume-builder-1.png)
+![Input Features](/images/resume-builder-2.png)
+![Analyze](/images/resume-builder-3.png)
+![Improvements section](/images/resume-builder-4.png)
+
 ## Features
 
 - 📄 Resume parsing (PDF & DOCX support)
